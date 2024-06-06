@@ -11,3 +11,9 @@ body{
 
 }
 
+#offcanvasTop {
+    --bs-offcanvas-height: 80vh;
+    background-color: #c5e1d4;
+  }
+  
+
