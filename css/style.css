@@ -17,3 +17,34 @@ body{
   }
   
 
+  .bar{
+    height: 20px;
+}
+ 
+.html-progress{
+    width: 75%;
+}
+ 
+.javascript-progress{
+    width: 75%;
+}
+ 
+.bootstrap-progress{
+    width: 80%;
+}
+ 
+.nodejs-progress{
+    width: 75%;
+}
+ 
+.express-progress{
+    width: 60%;
+}
+ 
+.mongodb-progress{
+    width: 75%;
+}
+ 
+.chartjs-progress{
+    width: 85%;
+}
